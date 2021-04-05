@@ -1,0 +1,20 @@
+.favorite-card {
+    width: 270px;
+    padding: 10px;
+    box-shadow: 0px 0px 2px 0px #330873;
+    border-radius: 25px;
+}
+
+.favorite-card-image img {
+    width: 250px;
+    height: 200px;
+    border-radius: 25px;
+}
+
+.favorite-remove {
+    border-radius: 25px;
+    border: none;
+    padding: 10px;
+    background-color: #212121;
+    color: #fff;
+}

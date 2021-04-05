@@ -1,0 +1,76 @@
+.title {
+    color: #09937A;
+}
+
+.sign-left {
+    width: 100%;
+    background: url("../../assets/login.jpg");
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.left-side {
+    position: relative;
+    padding: 20px;
+    text-align: center;
+    top: 135px;
+}
+
+.left-side h1 {
+    color: #fff;
+    font-size: 60px;
+}
+
+.left-side p {
+    font-size: 30px;
+    color: #fff;
+
+}
+
+.form-group input {
+    margin: 0px auto;
+    width: 80%;
+    padding: 10px 50px;
+    font-size: 18px;
+    border-radius: 15px;
+}
+
+.form-btn button {
+    background-color: #09937A;
+    border: none;
+    margin: 0px auto;
+    width: 80%;
+    padding: 7px 50px;
+    font-size: 18px;
+    border-radius: 15px;
+}
+
+.form-btn button:hover {
+    background-color: #097864;
+}
+
+.login-link a {
+    font-size: 15px;
+}
+
+.login-text p {
+    font-size: 16px;
+}
+
+.icon-one i, .icon-two i, .icon-three i {
+    font-size: 50px;
+    color: #09937A;
+}
+
+@media screen and (max-width: 960px) {
+    .left-side {
+        top: 160px;
+    }
+    .left-side h1 {
+        font-size: 40px;
+    }
+    .left-side p {
+        font-size: 25px;
+    }
+}

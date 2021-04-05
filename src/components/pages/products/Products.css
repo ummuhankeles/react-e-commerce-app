@@ -1,0 +1,229 @@
+.products{
+    width: 100%;
+    background-image: url("../../assets/products/allProducts.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .products-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .products-text a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .electronic {
+    width: 100%;
+    background-image: url("../../assets/products/electronic.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .electronic-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .electronic-text a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .clothes{
+    width: 100%;
+    background-image: url("../../assets/products/clothes.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .clothes-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .clothes-text a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .shoes{
+    width: 100%;
+    background-image: url("../../assets/products/shoes.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .shoes-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .shoes-text a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .supermarket {
+    width: 100%;
+    background-image: url("../../assets/products/supermarket.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .supermarket-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .supermarket-text a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .parfume {
+    width: 100%;
+    background-image: url("../../assets/products/parfume.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .parfume-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .parfume-text a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .watch {
+    width: 100%;
+    background-image: url("../../assets/products/watch.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .watch-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .watch-text a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .cosmetic {
+    width: 100%;
+    background-image: url("../../assets/products/cosmetic.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .cosmetic-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .cosmetic-text a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .decoration {
+    width: 100%;
+    background-image: url("../../assets/products/decoration.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .decoration-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .decoration-text a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .bags {
+    width: 100%;
+    background-image: url("../../assets/products/bags.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+  }
+  
+  .bags-text {
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .bags-text a {
+    color: #fff;
+    text-decoration: none;
+  }
